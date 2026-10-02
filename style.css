@@ -40,3 +40,12 @@ h2 {
 img {
   border-radius: 12px;
 }
+
+.guitar-photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 1rem auto;
+}
